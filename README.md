@@ -6,12 +6,12 @@
 
 2. Name three places in the world where ResBaz has been held?
 
-   Answer: 
+   Answer: Oslo, Melbourne, Dunedin, 
 
 3. Where does Python's name come from?
 
-   Answer: 
+   Answer: Monty Python
 
 4. Why is this conference called the *Research Bazaar*?
 
-   Answer: 
+   Answer: A gyspy named this.
